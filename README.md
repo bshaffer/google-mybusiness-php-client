@@ -17,7 +17,7 @@ composer installed.
 Once composer is installed, execute the following command in your project root to install this library:
 
 ```sh
-composer require bshaffer/apiclient-mybusiness
+composer require bshaffer/apiclient-mybusiness-service
 ```
 
 Be sure to include the autoloader:
