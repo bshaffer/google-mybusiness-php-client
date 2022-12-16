@@ -24,14 +24,6 @@ use PHPUnit\Framework\TestCase;
 
 class ServiceTest extends TestCase
 {
-    public static function setUpBeforeClass(): void
-    {
-        eval('class Google_Collection {}');
-        eval('class Google_Model {}');
-        eval('class Google_Service {}');
-        eval('class Google_Service_Resource {}');
-    }
-
     public function testIncludes()
     {
         foreach ($this->getServiceClasses() as $class) {
