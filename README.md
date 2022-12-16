@@ -2,7 +2,7 @@
 
 # Google MyBusiness Client Library for PHP #
 
-**IMPORTANT**: This is a fork of the [Google API PHP Client][https://github.com/googleapis/google-api-php-client],
+**IMPORTANT**: This is a fork of the [Google API PHP Client](https://github.com/googleapis/google-api-php-client),
 but with support for a previous (and currently deprecated) API with existing non-deprecated endpoints.
 See https://github.com/googleapis/google-api-php-client-services/issues/580
 
